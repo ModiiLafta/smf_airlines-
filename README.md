@@ -1,12 +1,13 @@
 ## Predicting Airline Delays: Data Analysis and Machine Learning"
 
 ### Overview
-This Jupyter notebook provides a detailed workflow for performing **Exploratory Data Analysis (EDA)** and building predictive models using machine learning techniques. The primary goals of this notebook are to:
+This project aims to predict whether there will be delays in future flights for certain airlines based on historical data. Using a dataset containing flight information, weather conditions, and other relevant factors, we perform **Exploratory Data Analysis (EDA)** and build **Machine Learning models** to forecast potential delays. 
 
-1. Understand the dataset through visualization and descriptive statistics.
-2. Preprocess the data to make it suitable for machine learning.
-3. Implement and evaluate multiple machine learning models.
-4. Tune the models for better performance.
+The primary objectives of this project are to:
+1. Analyze historical airline and weather data to identify patterns and factors contributing to delays.
+2. Preprocess the data to make it suitable for predictive modeling.
+3. Implement and evaluate machine learning models to predict the likelihood of delays for future flights.
+4. Fine-tune the models to improve accuracy and reliability.
 
 ### Sections
 
