@@ -1,4 +1,4 @@
-## Predicting Airline Delays: Data Analysis and Machine Learning"
+## Predicting Airline Delays: Data Analysis and Machine Learning
 
 ### Overview
 This project aims to predict whether there will be delays in future flights for certain airlines based on historical data. Using a dataset containing flight information, weather conditions, and other relevant factors, we perform **Exploratory Data Analysis (EDA)** and build **Machine Learning models** to forecast potential delays. 
