@@ -39,10 +39,7 @@ This Jupyter notebook provides a detailed workflow for performing **Exploratory 
 - Summarize findings from the EDA and modeling process.
 - Provide insights based on model performance and the predictive power of the features.
 
-### How to Use the Notebook
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-repo/your-project.git
+
 
 
 
